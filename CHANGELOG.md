@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   `opentelemetry_resource_detector` entry point
   ([#2382](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/2382))
 
+### Added
+
+- `opentelemetry-instrumentation-loguru` Add instrumentor support for loguru
+
 ### Breaking changes
 
 - Rename `type` attribute to `asgi.event.type` in `opentelemetry-instrumentation-asgi`
